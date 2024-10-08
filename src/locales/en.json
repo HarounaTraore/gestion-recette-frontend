@@ -1,0 +1,54 @@
+{
+  "recette": {
+    "recipes": "Recipes",
+    "searchPlaceholder": "Search for a recipe by name",
+    "recipeConfirm": "Are you sure you want to delete this recipe?",
+    "category": "Category",
+    "recipeManagement": "Recipe Management",
+    "welcomeText": "Welcome to the Recipe Management System",
+    "listTitle": "List of Recipes",
+    "recipeCategory": "Category",
+    "actions": "Actions",
+    "addRecipe": "Add a Recipe",
+    "recipeTitlePlaceholder": "Enter the recipe title",
+    "recipeIngredientsPlaceholder": "Enter the recipe ingredients",
+    "starter": "Starter",
+    "mainCourse": "Main Course",
+    "dessert": "Dessert",
+    "selectCategory": "Select Category",
+    "selectType": "Select Type",
+    "editRecipe": "Edit Recipe",
+    "delete": "Delete",
+    "viewDetails": "View Details",
+    "recipeTitle": "Title",
+    "titleError": "The title must be between 5 and 100 characters.",
+    "recipeExistsError": "A recipe with this title already exists.",
+    "ingredientsError": "The ingredients must be between 10 and 500 characters.",
+    "recipeType": "Type",
+    "ingredients": "Ingredients",
+    "addNewRecipe": "Add a New Recipe",
+    "save": "Save",
+    "recipeDetails": "Recipe Details"
+  },
+  "listCategory": {
+    "showCategoryRecepes": "Recepes List",
+    "modify": "Modify",
+    "added": "New Category",
+    "data": "No Registered Category",
+    "cannotDeleteCategory": "This category cannot be deleted because it is used by a recipe.",
+    "categoryConfirm": "Are you sure you want to delete this category?"
+  },
+  "recipeListCategory": {
+    "title": "Category Recipes: "
+  },
+  "editCategory": {
+    "title": "Edit Category",
+    "name": "Name",
+    "save": "Save"
+  },
+  "addCategorie": {
+    "title": "New Category",
+    "name": "Name",
+    "submit": "Submit"
+  }
+}

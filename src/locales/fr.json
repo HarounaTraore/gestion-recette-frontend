@@ -1,0 +1,54 @@
+{
+  "recette": {
+    "recipes": "Recettes",
+    "searchPlaceholder": "Rechercher une recette par son nom",
+    "recipeConfirm": "Vous êtes sûr de vouloir supprimer cette recette ?",
+    "category": "Catégorie",
+    "recipeManagement": "Gestion des recettes",
+    "welcomeText": "Bienvenue dans le système de gestion des recettes",
+    "listTitle": "Liste des Recettes",
+    "recipeCategory": "Catégorie",
+    "actions": "Actions",
+    "addRecipe": "Ajouter une Recette",
+    "recipeTitlePlaceholder": "Entrer le titre de la recette",
+    "recipeIngredientsPlaceholder": "Entrer les ingrédients de la recette",
+    "starter": "Entrée",
+    "mainCourse": "Plat",
+    "dessert": "Dessert",
+    "selectCategory": "Choisir Catégorie",
+    "selectType": "Choisir Type",
+    "editRecipe": "Modifier la Recette",
+    "delete": "Supprimer",
+    "viewDetails": "Voir les Détails",
+    "recipeTitle": "Titre",
+    "titleError": "Le titre doit contenir entre 5 et 100 caractères.",
+    "recipeExistsError": "Une recette avec ce titre existe déjà.",
+    "recipeType": "Type",
+    "ingredients": "Ingrédients",
+    "ingredientsError": "Les ingrédients doivent contenir entre 10 et 500 caractères.",
+    "addNewRecipe": "Ajouter une nouvelle Recette",
+    "save": "Enregistrer",
+    "recipeDetails": "Détails de la Recette"
+  },
+  "listCategory": {
+    "showCategoryRecepes": "Liste de Recettes",
+    "modify": "Modifier",
+    "added": "Nouveau Catégorie",
+    "data": "Aucun Catégorie Enregistée",
+    "cannotDeleteCategory": "Cette catégorie ne peut pas être supprimée car elle est utilisée par une recette.",
+    "categoryConfirm": "Vous êtes sûr de vouloir supprimer cette categorie ?"
+  },
+  "recipeListCategory": {
+    "title": "Recettes de Catégorie: "
+  },
+  "editCategory": {
+    "title": "Modification de Catégorie",
+    "name": "Nom",
+    "save": "Enregister"
+  },
+  "addCategorie": {
+    "title": "Nouveau Catégorie",
+    "name": "Nom",
+    "submit": "Soumettre"
+  }
+}
